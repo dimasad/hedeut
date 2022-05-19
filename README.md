@@ -1,4 +1,4 @@
 jaxutils
 ========
 
-Utilities and decorating for working with JAX.
+Utilities and decorators for working with JAX.
