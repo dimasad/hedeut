@@ -1,4 +1,4 @@
-"""Common utility functions."""
+"""HElpful DEcorators and UTilities."""
 
 
 import collections
