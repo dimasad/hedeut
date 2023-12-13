@@ -11,6 +11,7 @@ authors = [
 description = "HElpful DEcorators and UTilities for working with JAX."
 readme = "README.md"
 license = {file = "LICENSE"}
+requires-python = ">=3.10"
 dependencies = [
   "numpy",
   "jax",
