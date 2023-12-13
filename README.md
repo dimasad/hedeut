@@ -1,4 +1,4 @@
-jaxutils
-========
+hedeut
+======
 
-Utilities and decorators for working with JAX.
+HElpful DEcorators and UTilities for working with JAX.
